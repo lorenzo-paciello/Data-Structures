@@ -1,4 +1,3 @@
-# Estrutura-de-dados
-Exercicios de manipulação de arquivos
+# Data Structures
 
-Práticas utilizando registros de tamanho fixo e variável
+File manipulation exercises
